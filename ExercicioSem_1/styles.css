@@ -1,0 +1,94 @@
+header {
+    text-align: center;
+    margin: 20px;
+
+}
+
+h1 {
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(64, 69, 116);
+    text-align: center;
+    align-items: normal; 
+
+}
+h2 {color: rgb(55, 45, 104);
+    background-color: #adb5bd;
+
+}
+
+nav {
+    letter-spacing: 3px;
+    text-align: center;
+    text-overflow: inherit;
+    
+}
+a {
+    text-shadow: #3a3838;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.3rem;
+
+}
+
+body {
+    background-color: #c3c5ca;
+    color: #3a3838;
+    align-content: center;
+    text-align: center;
+    font-size: 1.3rem;
+
+}
+img {
+    padding: 5px;
+    width: 21%;
+    border-radius : 15px;
+    
+}
+button {
+    padding: 2px;
+    color: rgb(68, 5, 139);
+}
+
+input {
+    padding-top: 10px ;
+    align-items: center;
+    text-align: initial;
+}
+label {
+    margin: 10px;
+}
+textarea {
+    transform-box: 400px;
+    text-decoration: wavy;
+
+}
+
+p {
+    padding: none;
+    justify-content: first baseline;
+    text-align: center;
+
+}
+td, th {
+    padding: .60%;
+    margin: 0;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+
+  th{
+    background-color: #a6abb4;
+  }
+  td{
+    font-weight:bold;
+    background-color: #c2c3c4;
+  }
+  
+  table{
+    width: 100%;
+    margin-bottom : 2%;
+    table-layout: flex;
+    text-align: center;
+  }
